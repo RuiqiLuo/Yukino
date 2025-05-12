@@ -10,6 +10,7 @@ Yukino AI 是一个基于 PyTorch 和 Transformer 架构的智能体项目，旨
 - **语言模型**：PyTorch, Hugging Face Transformers (GPT-2)  
 - **动画与交互**：Live2D, Unity
 <img src="https://github.com/user-attachments/assets/cea1bccf-8ce2-45f5-8480-7b4680636195" alt="Transformers" width="400"/>
+
 - **数据**：《我的青春恋爱物语果然有问题》轻小说
 
 ## 安装指南
