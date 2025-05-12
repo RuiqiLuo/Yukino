@@ -1,5 +1,4 @@
 # Yukino
-<p align="center"><strong>这仅仅只是一个开始！！！</strong></p>
 <img src="https://github.com/user-attachments/assets/96cddbe6-882a-47e8-bf92-16f4994fdbf6" alt="Yukino AI" width="400"/>
 
 ## 项目简介
